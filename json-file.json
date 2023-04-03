@@ -1,0 +1,40 @@
+{
+"20.03": [
+{
+"name": "Bartosz Mikołajczyk",
+"start_time": "08:30",
+"end_time": "10:00"
+},
+{
+"name": "Antoni Porębski",
+"start_time": "13:30",
+"end_time": "15:00"
+},
+{
+"name": "Urszula Pula",
+"start_time": "16:00",
+"end_time": "17:30"
+}
+],
+"21.03": [
+{
+"name": "Adam Nowak",
+"start_time": "08:30",
+"end_time": "10:00"
+}
+],
+"22.03": [
+{
+"name": "Edward Kowalski",
+"start_time": "16:00",
+"end_time": "17:30"
+}
+],
+"23.03": [
+{
+"name": "Bartosz Tabisz",
+"start_time": "13:30",
+"end_time": "14:00"
+}
+]
+}
